@@ -1,6 +1,7 @@
 Speciation: The Great Divergence (2015-2025)
 🎯 Project Overview
 This project investigates the fundamental "Speciation" of the video game industry. It analyzes how the market has split into two distinct economic and creative ecosystems: AAA (High-Fidelity / Hardware-Exclusivity) and Indie (Creative-Agility / Distribution-Resiliency).
+https://emaheshwarigrid.github.io/Great-Divergence/
 
 📊 Key Analytical Scenes
 The analysis is structured into six "Scenes" derived from RAWG metadata, providing a narrative-driven look at the industry's evolution:
