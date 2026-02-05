@@ -1,0 +1,16 @@
+# Core Data Analysis
+pandas
+numpy
+
+# Visualization & Plotting
+plotly
+matplotlib
+seaborn
+
+# API & Environment
+requests
+python-dotenv
+
+# Jupyter Support (Important for Plotly rendering)
+nbformat>=4.2.0
+ipykernel

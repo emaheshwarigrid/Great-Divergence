@@ -1,0 +1,12 @@
+# API Keys & Secrets
+.env
+api_key.txt
+
+# Jupyter & Python Bloat
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Virtual Environments
+.venv/
+env/
